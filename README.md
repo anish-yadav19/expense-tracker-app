@@ -60,7 +60,7 @@ First, set up the database and the server.
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/your-username/expense-tracker-app.git](https://github.com/your-username/expense-tracker-app.git)
+git clone [https://github.com/anish-yadav19/expense-tracker-app.git](https://github.com/your-username/expense-tracker-app.git)
 cd expense-tracker-app/backend
 
 # 2. Install dependencies
